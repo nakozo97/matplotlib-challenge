@@ -5,8 +5,8 @@ Looking across all previously generated figures and tables. There are multiple p
 
 1. The Capomulin drug regimen had the highest mouse count at 230, and the Ramicane had the second highest at 228. The lowest drug regimen used in the study was Propriva at 161 mouse count. 
 
-['Capomulin' 230, 'Ceftamin' 178, 'Infubinol' 178, 'Ketapril' 188, 'Naftisol' 186, 'Placebo' 181, 'Propriva' 161, 'Ramicane' 228, 'Stelasyn' 181, 'Zoniferol' 182]
-![description](Pymaceuticals/Total Number of Mice for each treatment-BarPlots.png)
+    ['Capomulin' 230, 'Ceftamin' 178, 'Infubinol' 178, 'Ketapril' 188, 'Naftisol' 186, 'Placebo' 181, 'Propriva' 161, 'Ramicane' 228, 'Stelasyn' 181, 'Zoniferol' 182]
+
 
 2. The distribution of female versus male mice was in favor of the male mice species (Males 50.61% and Females 49.39%). However, there is no clear indication from the data whether gender was a determinate factor in the correlation between 'Timepoint' and 'Tumor Volume(mm3)' efficiency. 
 
